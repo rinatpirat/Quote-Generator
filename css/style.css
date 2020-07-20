@@ -110,6 +110,7 @@ button:active {
   to {
     opacity: 100;
   }
+}
 
 /* Media Query for mobiles */
 @media screen and (max-width: 1000px) {
